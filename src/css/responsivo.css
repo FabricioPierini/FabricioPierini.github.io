@@ -9,10 +9,17 @@
     align-items: center;
   }
 
+    #photo {
+    width: 105px;
+    margin-top: 0px;
+    margin-left: 280px;
+  }
+
   .header h1 {
     margin-left: 0;
     padding-bottom: 10px;
     font-size: 32px;
+    padding-top: 30px;
   }
 
   .header p {
@@ -60,6 +67,7 @@
     font-size: 22px;
   }
 }
+
 
 
 
